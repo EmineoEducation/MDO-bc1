@@ -1,0 +1,499 @@
+{
+  "meta": {
+    "titre_rncp": "Manager la stratégie globale d'une organisation",
+    "code_rncp": "Non spécifié dans le document",
+    "bloc": "Bloc 1",
+    "intitule_bloc": "Élaborer et diffuser la stratégie globale d'une organisation",
+    "epreuve": "Rapport d'activité / Business plan",
+    "duree_reelle_min": 210,
+    "note_reflexive": true
+  },
+  "moment_narratif": {
+    "date_fictive": "14 mars 2025",
+    "titre_affaire": "Opération Northgate : pivoter ou périr",
+    "situation": "Lumio Health, medtech parisienne spécialisée dans les wearables anti-stress, vient de recevoir une offre de distribution exclusive de la part de Northgate (représenté par Jakob Rein), un réseau européen de cliniques et d'assurances santé couvrant 11 pays. L'accord potentiel représente ×4 sur le chiffre d'affaires B2B en 18 mois, mais impose à Lumio de revoir intégralement son positionnement, sa communication et son allocation de ressources. Théo Marczak (CEO) a convoqué un war-room stratégique. Sonia Ferracci pilote la refonte du plan de communication globale, Camille Ott gère la relation Northgate côté B2B, et Yassine Morel doit produire les contenus d'activation en deux semaines.",
+    "enjeu_central": "Construire en urgence un business plan complet et une feuille de route opérationnelle convaincants pour Northgate, tout en alignant l'ensemble des fonctions de Lumio sur une nouvelle vision stratégique, sous peine de perdre la fenêtre d'opportunité au profit d'un concurrent allemand déjà en négociation avec Jakob Rein."
+  },
+  "commanditaire": {
+    "nom": "Théo Marczak",
+    "role": "CEO de Lumio Health"
+  },
+  "competences": [
+    {
+      "code": "C1",
+      "label": "Construire une perspective globale des activités de l'organisation afin d'identifier ses potentialités et ses marges de manœuvre en analysant l'environnement et en anticipant ses évolutions",
+      "rncp": "Construire une perspective globale des activités de l'organisation afin d'identifier ses potentialités et ses marges de manœuvre en analysant l'environnement et en anticipant ses évolutions",
+      "placeholder": "Décrivez la chaîne de valeur de Lumio Health dans le contexte du partenariat Northgate, en analysant l'environnement medtech européen (réglementation MDR, tendances wearables santé au travail, émergence de concurrents) et en réalisant un benchmark d'au moins trois acteurs comparables. Identifiez les potentialités (nouvelles cibles B2B, marchés géographiques) et les marges de manœuvre (différenciation produit, pricing, canaux).",
+      "min_mots": 300,
+      "mots_cles": [
+        "chaîne de valeur",
+        "benchmark",
+        "environnement concurrentiel",
+        "potentialités",
+        "marges de manœuvre",
+        "tendances marché",
+        "medtech",
+        "wearables",
+        "réglementation MDR"
+      ],
+      "conseil": "Appuyez-vous sur le document DOC-02 (étude de marché Northgate) et DOC-04 (veille concurrentielle interne de Yassine) pour ancrer votre analyse dans des données concrètes. Un benchmark sans données chiffrées sera considéré comme insuffisant par le jury."
+    },
+    {
+      "code": "C2",
+      "label": "Évaluer les forces et les faiblesses de l'organisation au regard des risques et des opportunités du secteur d'activité afin d'assurer son bon positionnement à moyen et long terme en réalisant un diagnostic stratégique",
+      "rncp": "Évaluer les forces et les faiblesses de l'organisation au regard des risques et des opportunités du secteur d'activité afin d'assurer son bon positionnement à moyen et long terme en réalisant un diagnostic stratégique",
+      "placeholder": "Réalisez le diagnostic stratégique de Lumio Health face à l'opportunité Northgate. Construisez une matrice SWOT argumentée en mobilisant au moins deux outils d'aide à la décision (ex. : matrice BCG, Porter, Pestel, ou outils numériques de business intelligence). Expliquez comment ce diagnostic oriente le positionnement de Lumio à moyen terme (3 ans) sur le marché européen B2B santé.",
+      "min_mots": 280,
+      "mots_cles": [
+        "SWOT",
+        "diagnostic stratégique",
+        "forces",
+        "faiblesses",
+        "opportunités",
+        "risques",
+        "outils d'aide à la décision",
+        "positionnement",
+        "moyen terme"
+      ],
+      "conseil": "Structurez votre SWOT en tableau lisible, puis rédigez une synthèse narrative de 80 mots minimum reliant chaque quadrant à une décision stratégique concrète pour Lumio. Évitez les SWOT génériques non contextualisés : le jury vérifie l'adéquation avec le cas Northgate."
+    },
+    {
+      "code": "C3",
+      "label": "Définir les objectifs stratégiques et le plan d'action correspondant qui permettent à l'organisation d'orienter sa politique générale en construisant un business plan",
+      "rncp": "Définir les objectifs stratégiques et le plan d'action correspondant qui permettent à l'organisation d'orienter sa politique générale en construisant un business plan",
+      "placeholder": "Construisez le business plan de Lumio Health pour le partenariat Northgate sur 18 mois. Incluez : (1) les objectifs stratégiques chiffrés (CA cible, parts de marché, KPIs), (2) le plan d'action opérationnel détaillé, (3) un compte de résultat prévisionnel et un bilan prévisionnel simplifié intégrant les hypothèses de croissance ×4. Justifiez chaque hypothèse financière à partir des données du DOC-03.",
+      "min_mots": 400,
+      "mots_cles": [
+        "business plan",
+        "objectifs stratégiques",
+        "plan d'action",
+        "compte de résultat prévisionnel",
+        "bilan prévisionnel",
+        "KPIs",
+        "hypothèses financières",
+        "politique générale"
+      ],
+      "conseil": "Le business plan doit être complet et autonome : un lecteur externe (Jakob Rein ou un banquier) doit pouvoir le lire sans document complémentaire. Intégrez impérativement les tableaux financiers prévisionnels — leur absence est un critère éliminatoire."
+    },
+    {
+      "code": "C4",
+      "label": "Présenter les orientations stratégiques et financières à l'aide du business plan aux différentes parties prenantes (conseil d'administration, assemblée générale d'actionnaires ou d'associés, établissements bancaires) pour validation et obtention des financements",
+      "rncp": "Présenter les orientations stratégiques et financières à l'aide du business plan aux différentes parties prenantes (conseil d'administration, assemblée générale d'actionnaires ou d'associés, établissements bancaires) pour validation et obtention des financements",
+      "placeholder": "Rédigez le support de présentation orale (pitch deck structuré en 8 à 12 slides narratives) destiné à Jakob Rein (Northgate) et aux investisseurs de Lumio. Hiérarchisez votre argumentation : accroche, problème marché, solution Lumio, traction, projections financières, ask. Précisez comment vous adaptez le discours selon que vous vous adressez à Northgate (partenaire distribution) ou à un établissement bancaire (financement de la croissance).",
+      "min_mots": 250,
+      "mots_cles": [
+        "présentation orale",
+        "pitch deck",
+        "argumentation hiérarchisée",
+        "parties prenantes",
+        "financement",
+        "investisseurs",
+        "adaptation du discours",
+        "convaincre"
+      ],
+      "conseil": "Décrivez chaque slide en une à trois phrases (titre + message clé + visuel envisagé). Le jury évalue votre capacité à incarner le projet : montrez dans votre texte l'énergie et la conviction que vous porteriez à l'oral face à Jakob Rein."
+    },
+    {
+      "code": "C5",
+      "label": "Formuler et décliner la vision stratégique de l'organisation en termes de culture et de projet d'entreprise, de valeurs et d'image, pour définir les objectifs de communication globale",
+      "rncp": "Formuler et décliner la vision stratégique de l'organisation en termes de culture et de projet d'entreprise, de valeurs et d'image, pour définir les objectifs de communication globale",
+      "placeholder": "En lien avec Sonia Ferracci, formalisez la stratégie de communication globale de Lumio Health pour accompagner le pivot Northgate. Rédigez un plan de communication complet précisant : vision et valeurs de marque actualisées, cibles (B2B cliniques, assureurs, prescripteurs RH), messages clés, canaux (y compris numériques : LinkedIn, newsletter B2B, webinars), calendrier et indicateurs de succès. Expliquez comment l'histoire et la vocation de Lumio sont intégrées dans chaque prise de parole.",
+      "min_mots": 280,
+      "mots_cles": [
+        "stratégie de communication globale",
+        "plan de communication",
+        "vision",
+        "valeurs",
+        "culture d'entreprise",
+        "cibles",
+        "messages clés",
+        "canaux numériques",
+        "indicateurs"
+      ],
+      "conseil": "Utilisez le DOC-05 (brief de Sonia sur le repositionnement de marque) comme point de départ. Le plan de communication doit couvrir au minimum 6 mois et inclure des actions numériques concrètes — pas uniquement des intentions génériques."
+    },
+    {
+      "code": "C6",
+      "label": "Formaliser la politique générale pour permettre d'allouer les ressources matérielles, humaines et financières en fixant les étapes et les processus de mise en œuvre",
+      "rncp": "Formaliser la politique générale pour permettre d'allouer les ressources matérielles, humaines et financières en fixant les étapes et les processus de mise en œuvre",
+      "placeholder": "Rédigez la feuille de route de mise en œuvre du partenariat Northgate pour Lumio Health. Détaillez : les ressources humaines nécessaires (recrutements, réaffectations, responsabilités par fonction — Sonia, Camille, Yassine et les équipes opérationnelles), les ressources matérielles (infrastructure tech, certifications produit) et les ressources financières (budget alloué par poste). Précisez les étapes jalonnées et les processus de gouvernance (qui décide quoi, à quelle fréquence).",
+      "min_mots": 260,
+      "mots_cles": [
+        "feuille de route",
+        "allocation des ressources",
+        "ressources humaines",
+        "ressources financières",
+        "ressources matérielles",
+        "étapes",
+        "processus",
+        "gouvernance",
+        "jalons"
+      ],
+      "conseil": "La feuille de route doit être opérationnelle : évitez les généralités. Nommez explicitement les rôles et responsabilités de chaque personne clé de Lumio (Théo, Sonia, Camille, Yassine). L'absence de répartition claire des rôles est un critère éliminatoire au jury."
+    },
+    {
+      "code": "C7",
+      "label": "Diffuser la stratégie et la feuille de route aux unités opérationnelles et aux fonctions clés de l'organisation en utilisant les outils d'organisation et de planification, pour mobiliser les ressources nécessaires à l'atteinte des objectifs",
+      "rncp": "Diffuser la stratégie et la feuille de route aux unités opérationnelles et aux fonctions clés de l'organisation en utilisant les outils d'organisation et de planification, pour mobiliser les ressources nécessaires à l'atteinte des objectifs",
+      "placeholder": "Décrivez le dispositif de diffusion interne de la stratégie Northgate chez Lumio. Rédigez : (1) une note de service adressée à l'ensemble des équipes annonçant le pivot stratégique, (2) les grandes lignes d'un livret d'accueil pour les futurs collaborateurs recrutés dans le cadre du projet, (3) les outils collaboratifs mis en place (CRM, espace projet Notion/Slack, tableau de bord partagé), (4) la composition des équipes projet et (5) le planning prévisionnel de déploiement sur 18 mois.",
+      "min_mots": 280,
+      "mots_cles": [
+        "note de service",
+        "livret d'accueil",
+        "outils collaboratifs",
+        "CRM",
+        "équipes projet",
+        "planning prévisionnel",
+        "diffusion interne",
+        "mobilisation",
+        "outils de planification"
+      ],
+      "conseil": "La note de service doit être rédigée en style professionnel direct (objet, contexte, décisions, actions attendues, délais). Le planning prévisionnel doit couvrir les 18 mois du partenariat Northgate avec des jalons mensuels ou bimestriels clairement identifiés."
+    }
+  ],
+  "livrable": {
+    "format": "Rapport d'activité structuré (introduction + 7 sections numérotées C1 à C7 + note réflexive) accompagné d'un business plan complet en annexe avec tableaux financiers prévisionnels et support de présentation orale (pitch deck décrit)",
+    "total_mots_min": 520,
+    "note_reflexive_min": 100
+  },
+  "jury_criteres_eliminatoires": [
+    "Absence de tableaux financiers prévisionnels (bilan et compte de résultat) dans le business plan — le livrable est automatiquement hors critères CE3.2",
+    "Rôles et responsabilités non attribués explicitement à des personnes nommées (Théo Marczak, Sonia Ferracci, Camille Ott, Yassine Morel) dans la feuille de route — critère CE6 non satisfait",
+    "Absence d'indicateurs d'impact mesurables (KPIs chiffrés, cibles CA, métriques de communication) dans au moins trois des compétences évaluées",
+    "Benchmark (C1) non réalisé ou limité à des affirmations génériques sans données sectorielles ni noms d'acteurs concurrents identifiés",
+    "Note réflexive inférieure à 100 mots ou absente — épreuve incomplète, non recevable",
+    "Plan de communication (C5) ne mentionnant aucun canal numérique ni aucun indicateur de succès mesurable",
+    "Business plan (C3) ne couvrant pas l'activité internationale de Lumio ou ignorant le contexte Northgate multi-pays"
+  ],
+  "documents_fictifs": [
+    {
+      "id": "DOC-01",
+      "type": "Email",
+      "expediteur": "Jakob Rein (Northgate)",
+      "objet": "Offre de partenariat exclusif Northgate × Lumio Health — fenêtre de décision 21 jours",
+      "role_narratif": "Document déclencheur : Jakob Rein formalise l'offre Northgate avec les conditions (exclusivité 11 pays, volume minimum, délai de réponse). Crée l'urgence stratégique et cadre les contraintes du business plan.",
+      "acte": 1,
+      "generated": {
+        "subject": "Offre de partenariat exclusif Northgate × Lumio Health — fenêtre de décision 21 jours",
+        "body": "Monsieur Marczak,\n\nFaisant suite à nos échanges du 10 mars, je vous transmets ci-dessous les conditions formelles de l'offre de distribution exclusive que Northgate Capital souhaite proposer à Lumio Health.\n\nNorthgate s'engage à référencer vos wearables auprès de l'ensemble de son réseau : 47 cliniques partenaires et 6 groupes d'assurance santé, couvrant 11 pays européens (FR, DE, NL, BE, CH, AT, SE, DK, NO, FI, ES). Volume minimum contractuel : 4 200 unités sur 18 mois, avec une clause de révision à la hausse à 12 mois selon les données d'activation terrain. L'exclusivité de distribution B2B sur ce périmètre géographique est une condition non négociable de l'accord.\n\nEn contrepartie, Northgate attend de Lumio : (1) une refonte du positionnement produit adaptée aux standards médico-réglementaires de chaque pays couvert, (2) un plan de communication dédié au réseau clinique et assuranciel, (3) une capacité de livraison certifiée dès le T3 2025.\n\nJe vous informe, par souci de transparence, que nous menons en parallèle une due diligence avec un acteur allemand sur un périmètre comparable. Notre comité de sélection se réunit le 4 avril. Votre réponse formelle — business plan et feuille de route opérationnelle inclus — devra nous parvenir au plus tard le 3 avril 2025.\n\nPassé ce délai, nous ne serons plus en mesure de maintenir cette offre.\n\nCordialement,\n\nJakob Rein\nPartner — Northgate Capital\njakob.rein@northgate-capital.eu\n+49 89 2150 7743",
+        "preview": "Northgate formalise une offre exclusive 11 pays, 4 200 unités, avec une échéance de réponse au 3 avril — et un concurrent allemand déjà en lice."
+      }
+    },
+    {
+      "id": "DOC-02",
+      "type": "Étude de marché",
+      "expediteur": "Cabinet Santé & Marchés (commandé par Théo Marczak)",
+      "objet": "Marché européen des wearables B2B santé au travail 2024-2027 — synthèse exécutive",
+      "role_narratif": "Fournit les données macroéconomiques et sectorielles nécessaires à C1 (analyse environnement, tendances) et C3 (hypothèses financières du business plan). Contient TAM/SAM/SOM et réglementation MDR.",
+      "acte": 1,
+      "generated": {
+        "title": "Marché européen des wearables B2B santé au travail 2024-2027 — Synthèse exécutive",
+        "pages": [
+          {
+            "kicker": "ÉTUDE DE MARCHÉ CONFIDENTIELLE",
+            "title": "Marché européen des wearables B2B santé au travail 2024-2027",
+            "byline": "Cabinet Santé & Marchés · Commandé par Théo Marczak, CEO Lumio Health · 14 mars 2025",
+            "blocks": [
+              {
+                "type": "p",
+                "text": "La présente synthèse a été produite à la demande de Lumio Health dans le cadre d'une décision stratégique à délai contraint. Elle s'appuie sur des données agrégées issues de sources sectorielles (HIMSS Europe 2024, Frost & Sullivan Q4 2024, rapport DREES/ANSES décembre 2024) et d'entretiens conduits auprès de 14 acheteurs institutionnels en France, Allemagne, Pays-Bas et Suède entre janvier et février 2025."
+              },
+              {
+                "type": "h2",
+                "text": "Dynamiques macro-sectorielles : un marché en phase d'accélération"
+              },
+              {
+                "type": "p",
+                "text": "Le marché européen des wearables dédiés à la santé au travail (suivi du stress, charge physiologique, qualité de sommeil en contexte professionnel) est estimé à 1,4 milliard d'euros en 2024. Les projections pour 2027 tablent sur 3,1 milliards d'euros, soit un CAGR de 30,4 %. Trois facteurs structurels alimentent cette croissance : (1) l'entrée en vigueur progressive des obligations de prévention des risques psychosociaux (RPS) dans 7 pays membres de l'UE depuis 2023 ; (2) l'intégration des dispositifs de bien-être dans les contrats de complémentaire santé collective, portée par la directive 2023/970 sur la transparence salariale ; (3) la montée en puissance des programmes ESG intégrant des indicateurs de santé salariale, désormais exigés par 38 % des grands donneurs d'ordre européens dans leurs cahiers des charges fournisseurs (source : Deloitte European Workforce Survey, 2024)."
+              },
+              {
+                "type": "callout",
+                "text": "CAGR 2024-2027 : +30,4 % — Marché européen estimé à 3,1 Mds € en 2027. Moteur principal : réglementation RPS et intégration santé dans les contrats d'assurance collective."
+              },
+              {
+                "type": "h2",
+                "text": "TAM / SAM / SOM : cadrage des opportunités accessibles"
+              },
+              {
+                "type": "p",
+                "text": "Le TAM (Total Addressable Market) européen couvre l'ensemble des entreprises de plus de 50 salariés dans les 27 États membres, soit environ 480 000 organisations représentant un potentiel brut de 3,1 milliards d'euros en 2027. Le SAM (Serviceable Addressable Market) est restreint aux marchés où Lumio Health dispose d'une capacité de déploiement réaliste à 18 mois — France, Belgique, Pays-Bas, Allemagne, Suède — et aux segments cliniques et assurances santé, soit un marché adressable de 820 millions d'euros. Le SOM (Serviceable Obtainable Market) retenu pour le business plan Northgate, sur la base d'un accord de distribution exclusive couvrant 11 pays et 600 points de contact institutionnels, est estimé à 47 millions d'euros cumulés sur 18 mois, correspondant à une hypothèse de pénétration de 5,7 % du SAM — cohérente avec les benchmarks observés sur des lancements comparables (Withings Health Solutions, 2022 ; Garmin Health Enterprise, 2023)."
+              },
+              {
+                "type": "callout",
+                "text": "SOM Northgate (18 mois) : 47 M€ cumulés · Hypothèse de pénétration : 5,7 % du SAM · Base de comparaison : Withings Health Solutions post-accord AXA (2022), +×3,8 CA en 20 mois."
+              },
+              {
+                "type": "h2",
+                "text": "Environnement concurrentiel et fenêtre d'opportunité"
+              },
+              {
+                "type": "p",
+                "text": "Le segment B2B institutionnel (cliniques, assureurs, mutuelles) est aujourd'hui occupé par trois acteurs principaux : Kenzen (US, présent en Allemagne et Scandinavie via Allianz Care), Sentio Solutions (Finlande, focus anxiété clinique) et Corti Health (Danemark, IA diagnostique, positionnement adjacent). Aucun acteur français ne détient de contrat de distribution exclusive à l'échelle européenne à ce jour. La menace concurrente directe identifiée dans le cadre de la négociation Northgate est Kenzen, dont les équipes commerciales européennes ont été renforcées de 6 profils en janvier 2025 — signal fort d'une intention d'accélération sur le segment assureurs. La fenêtre d'opportunité pour Lumio est estimée à 6 à 8 semaines avant qu'un accord alternatif soit contractualisable par Kenzen."
+              },
+              {
+                "type": "h2",
+                "text": "Cadre réglementaire : MDR et implications pour Lumio"
+              },
+              {
+                "type": "p",
+                "text": "Le règlement européen sur les dispositifs médicaux (MDR 2017/745, pleinement applicable depuis mai 2021) impose une classification des wearables selon leur finalité revendiquée. Les dispositifs Lumio Health, dans leur version actuelle (mesure HRV et conductance cutanée à des fins de prévention RPS), relèvent de la classe I selon l'annexe VIII du MDR, dispensée de certification notifiée mais soumise à déclaration de conformité et documentation technique complète. En cas d'extension vers des usages cliniques (intégration dans des protocoles de suivi médical au sein des cliniques Northgate), un reclassement en classe IIa serait requis, avec désignation d'un organisme notifié et délais estimés à 9-14 mois. Ce point constitue un risque réglementaire majeur à intégrer dans le business plan et les négociations contractuelles avec Northgate."
+              },
+              {
+                "type": "callout",
+                "text": "RISQUE RÉGLEMENTAIRE : Extension clinique = reclassement MDR classe IIa · Délai estimé : 9 à 14 mois · Recommandation : contractualiser avec Northgate sur périmètre classe I dans un premier temps, avec clause d'extension conditionnelle à l'obtention de la certification."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "DOC-03",
+      "type": "Tableau financier interne",
+      "expediteur": "Théo Marczak (CEO)",
+      "objet": "Données financières Lumio Health FY2023-2024 + projections scénario Northgate",
+      "role_narratif": "Source des données financières historiques et des hypothèses de croissance pour construire le bilan et le compte de résultat prévisionnels (C3). Contient trois scénarios : conservateur, base, optimiste.",
+      "acte": 2,
+      "generated": {
+        "title": "Données financières Lumio Health FY2023-2024 + projections scénario Northgate",
+        "pages": [
+          {
+            "kicker": "TABLEAU FINANCIER INTERNE — CONFIDENTIEL",
+            "title": "Lumio Health · Historique & Projections Northgate",
+            "byline": "Théo Marczak, CEO · 14 mars 2025",
+            "blocks": [
+              {
+                "type": "p",
+                "text": "Ce document consolide les données financières auditées FY2023 et FY2024, ainsi que les trois scénarios de projection établis dans le cadre de l'offre Northgate Capital reçue le 11 mars 2025. Il sert de socle chiffré pour la construction du business plan destiné à Jakob Rein. Diffusion restreinte : Théo Marczak, Sonia Ferracci, Camille Ott."
+              },
+              {
+                "type": "h2",
+                "text": "1. Historique financier consolidé — FY2023 & FY2024"
+              },
+              {
+                "type": "p",
+                "text": "FY2023 — CA : 1 420 000 € | Clients actifs B2B : 142 | Panier moyen annuel : 10 000 € | Charges opérationnelles : 1 180 000 € | EBITDA : 240 000 € (16,9 %) | Effectif : 11 ETP. FY2024 — CA : 1 980 000 € | Clients actifs B2B : 180 | Panier moyen annuel : 11 000 € | Charges opérationnelles : 1 610 000 € | EBITDA : 370 000 € (18,7 %) | Effectif : 14 ETP. Croissance CA FY23→FY24 : +39,4 %. Taux de rétention client B2B : 94 %. Investissement R&D FY2024 : 310 000 € (15,7 % du CA). Trésorerie disponible au 28 fév. 2025 : 480 000 €."
+              },
+              {
+                "type": "callout",
+                "text": "Référence clé : l'offre Northgate représente un potentiel de CA cible de ~7 920 000 € à 18 mois (×4 sur base FY2024), soit ~660 clients B2B au panier moyen de 12 000 €. C'est la borne haute du scénario optimiste."
+              },
+              {
+                "type": "h2",
+                "text": "2. Projections FY2025-2026 — Trois scénarios Northgate"
+              },
+              {
+                "type": "p",
+                "text": "SCÉNARIO CONSERVATEUR (probabilité estimée : 30 %) — Hypothèse : déploiement Northgate limité à 3 pays, adoption progressive. CA FY2025 : 2 900 000 € | CA FY2026 : 4 200 000 € (×2,1 vs FY2024). Charges opérationnelles FY2026 : 3 400 000 € | EBITDA FY2026 : 800 000 € (19 %). Recrutements nécessaires : +6 ETP (support client, déploiement terrain). Investissement infra & produit : 550 000 €. — SCÉNARIO BASE (probabilité estimée : 50 %) — Hypothèse : déploiement Northgate sur 7 pays, montée en charge à partir de T3 2025. CA FY2025 : 3 600 000 € | CA FY2026 : 6 100 000 € (×3,1 vs FY2024). Charges opérationnelles FY2026 : 4 700 000 € | EBITDA FY2026 : 1 400 000 € (23 %). Recrutements nécessaires : +11 ETP. Investissement infra & produit : 920 000 €. Besoin de financement externe : 700 000 € (levée ou dette). — SCÉNARIO OPTIMISTE (probabilité estimée : 20 %) — Hypothèse : déploiement full 11 pays dès T2 2025, effet réseau assureurs activé. CA FY2025 : 4 800 000 € | CA FY2026 : 7 920 000 € (×4 vs FY2024). Charges opérationnelles FY2026 : 6 100 000 € | EBITDA FY2026 : 1 820 000 € (23 %). Recrutements nécessaires : +18 ETP. Investissement infra & produit : 1 450 000 €. Besoin de financement externe : 1 500 000 €."
+              },
+              {
+                "type": "callout",
+                "text": "Hypothèse transversale aux trois scénarios : panier moyen B2B porté à 12 000 €/an dès la contractualisation Northgate (+9 % vs FY2024), justifié par l'intégration d'un module reporting clinique à 1 200 €/licence/an actuellement en développement (livraison prévue juin 2025)."
+              },
+              {
+                "type": "h2",
+                "text": "3. Points de vigilance & marges de manœuvre"
+              },
+              {
+                "type": "p",
+                "text": "Trois risques financiers à documenter dans le business plan : (1) Concentration client — un accord Northgate exclusif ferait peser 60 à 70 % du CA FY2026 sur un seul partenaire distributeur ; clause de sortie à négocier impérativement. (2) Point mort opérationnel — dans le scénario base, le seuil de rentabilité opérationnel (hors financement) est atteint à 5 100 000 € de CA, soit mi-2026 selon le rythme de déploiement. Toute glissade de 3 mois repousse l'équilibre en trésorerie à fin 2026. (3) Capacité R&D — le module reporting clinique conditionne le panier cible de 12 000 €. Tout retard post-juin 2025 dégrade mécaniquement les projections base et optimiste d'environ 8 % sur le CA FY2026."
+              },
+              {
+                "type": "callout",
+                "text": "Décision requise avant le 21 mars : valider le scénario de référence à soumettre à Northgate. Je recommande le scénario BASE comme socle du business plan, avec une présentation du scénario optimiste en upside conditionnel. Le scénario conservateur servira de plancher de négociation sur les clauses de volume minimum garanti. — T.M."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "DOC-04",
+      "type": "Note de veille interne",
+      "expediteur": "Yassine Morel (Content & Intelligence)",
+      "objet": "Benchmark concurrentiel — 4 acteurs wearables stress B2B en Europe",
+      "role_narratif": "Supporte C1 (benchmark) et C2 (diagnostic stratégique SWOT). Yassine a identifié trois concurrents directs dont un allemand déjà en discussion avec Northgate, ce qui renforce l'urgence narrative.",
+      "acte": 2,
+      "generated": {
+        "title": "Benchmark wearables stress B2B — 4 acteurs à surveiller en Europe",
+        "kicker": "VEILLE CONCURRENTIELLE — CONFIDENTIEL INTERNE",
+        "body": "**Lumio Health** (FR, 2018) — Référence de départ. 180 clients B2B, positionnement RH/QVT, technologie propriétaire éprouvée. Angle différenciant : accompagnement humain post-data. Faiblesse connue : notoriété limitée hors France, pas de réseau distribution européen structuré.\n\n**Nuromind** (DE, 2020) — Concurrent prioritaire. Wearable + dashboard analytique SaaS, déployé dans 6 pays DACH. Référencé auprès de 3 groupes d'assurances allemands. **Confirmation obtenue le 11 mars : Nuromind est en discussion active avec Northgate Capital.** Délai estimé avant signature : 6 à 10 semaines selon source indirecte (LinkedIn + communiqué investisseur daté 28 fév. 2025). C'est le scénario de blocage à traiter en priorité absolue.\n\n**Moodbeam** (UK, 2016) — Acteur établi, mono-capteur simplifié, cible PME <200 salariés. Peu menaçant sur le segment cliniques/assurances visé par Northgate. Post-Brexit, déploiement continental ralenti.\n\n**Corti Sense** (NL, 2021) — Entrant rapide, levée série A de 9 M€ en jan. 2025. Wearable couplé à IA prédictive burnout. Pas encore en phase commerciale B2B structurée, mais à surveiller sur 12-18 mois.\n\n**Synthèse rapide :** Nuromind est l'unique menace immédiate sur le deal Northgate. Lumio dispose d'un avantage différenciant défendable (profondeur relation client, data longitudinale sur 180 comptes) à condition de le formaliser vite dans l'offre adressée à Jakob Rein.",
+        "preview": "Nuromind (DE) est en négociation active avec Northgate — fenêtre estimée à 6-10 semaines avant clôture possible."
+      }
+    },
+    {
+      "id": "DOC-05",
+      "type": "Brief marketing",
+      "expediteur": "Sonia Ferracci (DirMkt)",
+      "objet": "Repositionnement de marque Lumio — axes stratégiques communication globale 2025",
+      "role_narratif": "Point de départ de C5 (plan de communication globale). Sonia expose la tension entre l'image B2C actuelle de Lumio et les codes attendus par les assureurs et cliniques Northgate. Révèle un désaccord interne avec Théo sur le budget com.",
+      "acte": 3,
+      "generated": {
+        "title": "Brief marketing — Repositionnement de marque Lumio 2025",
+        "pages": [
+          {
+            "kicker": "USAGE INTERNE — CONFIDENTIEL",
+            "title": "Repositionnement de marque Lumio — Axes stratégiques communication globale 2025",
+            "byline": "Sonia Ferracci, Directrice Marketing · 14 mars 2025",
+            "blocks": [
+              {
+                "type": "p",
+                "text": "Ce brief fait suite au war-room du 13 mars et à la réception de l'offre Northgate. Il a vocation à cadrer les orientations de communication avant toute production de contenus. Je demande à Yassine et à Camille d'en prendre connaissance avant notre réunion du 17 mars, 10h."
+              },
+              {
+                "type": "h2",
+                "text": "1. Le problème de fond : un écart d'image qui bloque la signature"
+              },
+              {
+                "type": "p",
+                "text": "Lumio communique aujourd'hui avec les codes du bien-être grand public : visuels épurés fond blanc, lexique orienté « sérénité », « équilibre », « recharge mentale ». Ce positionnement a du sens pour nos 180 clients PME actuels, souvent convaincus par le bouche-à-oreille ou les salons RH. Il devient un frein direct face aux interlocuteurs Northgate — directeurs médicaux, responsables actuariels, DSI de cliniques — qui attendent des preuves cliniques, une terminologie précise (variabilité cardiaque, protocoles de mesure, compliance RGPD et MDR) et une image institutionnelle cohérente avec leurs propres standards. Jakob Rein nous l'a dit sans détour lors de l'appel du 11 mars : « Vos supports ressemblent à une appli de méditation, pas à un dispositif médical. » Ce gap n'est pas cosmétique. Il affecte la crédibilité de l'offre technique et ralentit la décision d'achat."
+              },
+              {
+                "type": "h2",
+                "text": "2. Axes de repositionnement proposés"
+              },
+              {
+                "type": "p",
+                "text": "Axe 1 — Ancrage clinique : refondre le discours autour des données probantes. Mettre en avant les études pilotes menées avec nos clients (notamment Groupe Malakoff Humanis, données 2024), les certifications CE classe IIa en cours, et les partenariats académiques. Axe 2 — Langage B2B institutionnel : créer une ligne éditoriale distincte pour les interlocuteurs Northgate (assureurs, cliniques, mutuelles), séparée de nos communications employeurs actuelles. Axe 3 — Identité visuelle : adapter — sans tout détruire — la charte graphique vers des codes plus médicaux et sobres (typographie sérif, palette bleu nuit / gris acier, iconographie data-driven). Je propose une évolution, pas une refonte à zéro : budget et délai ne le permettent pas."
+              },
+              {
+                "type": "callout",
+                "text": "Point de vigilance — Désaccord budgétaire avec Théo : Théo souhaite allouer 40 000 € à une campagne de notoriété digitale broad pour « asseoir la marque » avant la signature Northgate. Je m'y oppose formellement. À ce stade, une campagne grand public affaiblit le repositionnement institutionnel en cours et brouille le signal envoyé à Jakob Rein. Ma recommandation : concentrer 35 000 € sur la production de contenus B2B à haute valeur (livre blanc clinique, deck investisseur, vidéo de démonstration protocole), et réserver 5 000 € à du ciblage LinkedIn très segmenté sur les profils Northgate. Ce point doit être tranché avant le 18 mars, date limite de remise des supports à Camille."
+              },
+              {
+                "type": "h2",
+                "text": "3. Prochaines étapes"
+              },
+              {
+                "type": "p",
+                "text": "17 mars : arbitrage budgétaire avec Théo (Sonia + Théo, 30 min). 18 mars : brief créatif transmis à Yassine — priorisation : livre blanc et deck. 21 mars : première version des éléments de langage soumise à Camille pour validation terrain. 28 mars : livraison du kit complet à Jakob Rein. Le calendrier est tenu à condition que les arbitrages tombent cette semaine. Toute dérive de deux jours sur la décision budgétaire décale la livraison finale et nous expose à la concurrence allemande déjà en lice."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "DOC-06",
+      "type": "Compte-rendu de réunion",
+      "expediteur": "Camille Ott (B2B)",
+      "objet": "War-room Northgate du 14/03 — décisions actées et points de blocage",
+      "role_narratif": "Synthèse des décisions du war-room convoqué par Théo. Documente les rôles attribués à chaque membre de l'équipe et les ressources allouées provisoirement. Alimente C6 (feuille de route) et C7 (diffusion interne).",
+      "acte": 3,
+      "generated": {
+        "title": "War-room Northgate du 14/03 — décisions actées et points de blocage",
+        "pages": [
+          {
+            "kicker": "COMPTE-RENDU INTERNE — CONFIDENTIEL",
+            "title": "War-room Northgate du 14/03 — décisions actées et points de blocage",
+            "byline": "Camille Ott, Responsable Partenariats B2B · 14 mars 2025",
+            "blocks": [
+              {
+                "type": "p",
+                "text": "Réunion convoquée par Théo Marczak, CEO, le 14 mars 2025 à 9h00, siège Lumio Health, Paris 11e. Durée : 2h15. Présents : Théo Marczak, Sonia Ferracci, Camille Ott, Yassine Morel. Absent excusé : Jakob Rein (Northgate Capital), représenté par ses éléments transmis la veille via email. Objet : définir la réponse stratégique et opérationnelle à l'offre de distribution exclusive Northgate, couvrant 11 pays européens, avec engagement de réponse formelle attendu avant le 28 mars 2025."
+              },
+              {
+                "type": "h2",
+                "text": "Décisions actées"
+              },
+              {
+                "type": "p",
+                "text": "1. Acceptation du principe de négociation exclusive avec Northgate pour 30 jours, sans engagement contractuel définitif. Théo Marczak assume la responsabilité de l'interface directe avec Jakob Rein. 2. Lancement immédiat d'un business plan dédié visant à modéliser le scénario ×4 CA en 18 mois : pilotage Théo, contribution chiffrée attendue de Sonia (projection acquisition) et Camille (pipeline B2B existant valorisé). Livrable interne : 21 mars 2025. 3. Refonte du plan de communication globale confiée à Sonia Ferracci, intégrant le nouveau positionnement clinique et assurance santé. Premier draft : 24 mars. 4. Production des contenus d'activation (fiches produit, deck partenaire, cas d'usage cliniques) confiée à Yassine Morel. Deadline non négociable : 28 mars. Volume défini : 6 livrables identifiés. 5. Allocation provisoire de ressources : 12 000 € de budget contenu débloqués sur enveloppe Q2, 0,5 ETP support opérationnel à recruter en freelance dès la semaine 12."
+              },
+              {
+                "type": "callout",
+                "text": "POINT DE VIGILANCE — Yassine Morel a signalé en fin de réunion une charge de travail déjà saturée. Le délai de deux semaines sur 6 livrables représente un risque réel de qualité et de santé. Théo a acté la possibilité d'externaliser 2 livrables à un prestataire. Camille assure le suivi de ce point dès lundi 17 mars."
+              },
+              {
+                "type": "h2",
+                "text": "Points de blocage identifiés"
+              },
+              {
+                "type": "p",
+                "text": "Trois points restent non tranchés à l'issue de la réunion. Premièrement, le périmètre exact du repositionnement produit : Northgate exige une déclinaison du wearable adaptée aux environnements cliniques (certification CE classe IIa potentiellement requise), ce qui dépasse le cadre actuel de Lumio. Aucune décision prise : Théo consulte le directeur technique avant le 17 mars. Deuxièmement, la question de la base clients B2B existante (180 comptes fidèles) : l'accord d'exclusivité Northgate pourrait créer une friction contractuelle avec plusieurs grands comptes. Camille Ott réalise une revue des contrats en cours d'ici le 19 mars. Troisièmement, la gouvernance de la relation Northgate en cas de succès : Jakob Rein a laissé entendre une prise de participation minoritaire possible. Sujet non abordé en war-room, renvoyé à une session séparée avec le conseil."
+              },
+              {
+                "type": "callout",
+                "text": "PROCHAINE ÉCHÉANCE CRITIQUE : réunion de suivi war-room fixée au mercredi 19 mars à 8h30 — ordre du jour : restitution revue contrats B2B (Camille), arbitrage externalisation contenus (Théo + Yassine), premiers éléments business plan (Théo + Sonia). Présence obligatoire de tous les membres."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "DOC-07",
+      "type": "Note de service (brouillon)",
+      "expediteur": "Théo Marczak (CEO)",
+      "objet": "[BROUILLON] Annonce pivot stratégique Northgate — à finaliser avant envoi équipes",
+      "role_narratif": "Théo a rédigé une note de service incomplète et demande à l'apprenant de la compléter et de la professionnaliser. Alimente directement C7 (diffusion de la stratégie, note de service). Le brouillon contient une formulation maladroite sur les suppressions de poste potentielles.",
+      "acte": 4,
+      "generated": {
+        "title": "[BROUILLON] Pivot Northgate — Note à finaliser avant diffusion équipes",
+        "kicker": "USAGE INTERNE — NE PAS DIFFUSER EN L'ÉTAT",
+        "body": "À l'attention de l'ensemble des équipes Lumio Health.\n\nLumio Health est en négociation avancée avec Northgate Capital pour un accord de distribution exclusive couvrant 11 pays européens. Si finalisé d'ici fin mars 2025, cet accord représente une multiplication par 4 de notre chiffre d'affaires B2B sur 18 mois.\n\nCette opportunité implique une réorientation significative de nos priorités opérationnelles : refonte du positionnement produit, révision de l'allocation budgétaire, accélération de la production de contenus. Un war-room stratégique est activé dès cette semaine, piloté par Sonia Ferracci pour la communication et Camille Ott pour la relation Northgate.\n\n[PASSAGE À RETRAVAILLER — formulation actuelle trop brutale] : « Certains postes pourraient ne plus être nécessaires selon le nouveau modèle. » → À remplacer par une formulation RH conforme, type : « Une revue des ressources humaines sera conduite en concertation avec les managers concernés pour adapter les missions aux nouveaux besoins stratégiques. »\n\nUn point d'équipe plénier est prévu le 17 mars 2025. D'ici là, aucune communication externe sur ce sujet.",
+        "preview": "Brouillon de note interne — pivot Northgate : opportunité ×4 CA, réorganisation en cours, passage RH à reformuler avant envoi."
+      }
+    },
+    {
+      "id": "DOC-08",
+      "type": "Message Slack (canal #projet-northgate)",
+      "expediteur": "Camille Ott → Théo Marczak",
+      "objet": "⚠️ Jakob Rein vient d'envoyer un second email — concurrent allemand a déposé son dossier hier",
+      "role_narratif": "Révèle que le concurrent allemand a déjà soumis son business plan à Northgate. Crée la pression finale sur le timing et justifie la structuration urgente du planning prévisionnel de déploiement (C7). Constitue l'easter egg narratif du scénario.",
+      "acte": 5,
+      "generated": {
+        "subject": "⚠️ Jakob Rein vient d'envoyer un second email — concurrent allemand a déposé son dossier hier",
+        "body": "Théo,\n\nJakob vient de m'écrire à 11h43. Ton à changer : plus sec que d'habitude.\n\nL'info clé : Meditrek (Berlin) a soumis leur business plan complet à Northgate hier matin. Jakob ne dit pas qu'on est éliminés, mais il précise que leur comité d'investissement se réunit le 28 mars. Ce n'est pas une coïncidence qu'il nous en informe maintenant.\n\nSon email se termine par : « J'attends votre feuille de route opérationnelle et votre planning de déploiement avant le 21. Passé cette date, je ne peux plus garantir la fenêtre. »\n\nOn a donc 7 jours, pas 14. Je te transfère son email en DM — il y a un passage sur les exigences de couverture des 11 pays que Yassine n'a pas encore intégré dans les contenus d'activation. Ça va nécessiter une conversation avec lui, et vite.\n\nMon avis terrain : Jakob teste notre réactivité autant que notre plan. Si on répond dans les 48h avec quelque chose de structuré, on reprend l'avantage. Si on laisse passer le week-end sans signal, c'est Berlin.\n\nDis-moi si tu veux qu'on s'appelle ce soir.\n\nCamille",
+        "preview": "Meditrek a déposé son dossier hier — Jakob fixe le 21 mars comme deadline ferme pour notre feuille de route opérationnelle."
+      }
+    }
+  ],
+  "easter_egg": {
+    "type": "whatsapp",
+    "personnages": [
+      "Sonia Ferracci",
+      "Camille Ott"
+    ],
+    "tension_revelee": "Dans un échange WhatsApp discoverable en fin de DOC-06 (metadata non supprimée du PDF), Sonia confie à Camille qu'elle pense que Théo est prêt à accepter les conditions Northgate sans renégocier le prix, ce qui sacrifierait les marges sur 3 ans. Sonia envisage de présenter une contre-proposition directement à Jakob Rein lors de la présentation orale — sans en informer Théo. Cette tension révèle un enjeu de gouvernance interne qui doit amener l'apprenant à questionner la chaîne de décision et les processus de validation stratégique dans sa feuille de route (C6)."
+  },
+  "_enriched": {
+    "pressArticle": {
+      "source": "L'Usine Digitale",
+      "host": "usine-digitale.fr",
+      "url": "usine-digitale.fr/medtech-b2b-distribution-europeenne-wearables-sante-entreprise",
+      "author": "Margaux Thévenin",
+      "date": "11 mars 2025",
+      "headline": "Wearables santé au travail : les medtechs françaises face au vertige de l'internationalisation express",
+      "lede": "Portées par une demande croissante des employeurs et des réseaux de soins européens, plusieurs jeunes pousses hexagonales spécialisées dans la mesure du bien-être professionnel se trouvent confrontées à des offres de distribution massive qu'elles n'ont pas toujours les reins assez solides pour absorber. Entre opportunité de décennie et piège opérationnel, le dilemme est réel.",
+      "body": "En 2024, le marché européen des dispositifs connectés dédiés à la santé mentale et au stress au travail a progressé de 34 % selon le cabinet Frost & Sullivan, porté par la montée en puissance des politiques QVT dans les grandes entreprises et par l'intégration croissante de ces outils dans les contrats de prévoyance collective. Les réseaux de cliniques privées et les assureurs santé sont désormais en première ligne pour référencer ces solutions à grande échelle.\n\nMais cette accélération crée une asymétrie brutale : d'un côté, des distributeurs capables de déployer un produit sur dix ou onze marchés en moins de deux ans ; de l'autre, des éditeurs et fabricants dont les équipes, souvent inférieures à cinquante personnes, n'ont jamais conçu leurs processus pour ce type de montée en charge. « L'offre de distribution massive, c'est la meilleure et la pire chose qui puisse arriver à une startup en phase de croissance organique », résume Élodie Castaing, associée chez Healthcare Ventures à Lyon.\n\nLe cas des wearables anti-stress est particulièrement révélateur. Ces objets connectés, qui mesurent variabilité cardiaque, conductance cutanée ou qualité du sommeil, ont d'abord séduit les directions des ressources humaines de grands groupes via des contrats directs. Leur modèle B2B, fondé sur la relation de confiance et l'accompagnement personnalisé, est aujourd'hui bousculé par des acteurs de la distribution qui exigent standardisation, scalabilité et refonte du positionnement tarifaire.\n\nLa question du positionnement est centrale. Un réseau paneuropéen de cliniques ou d'assureurs ne cherche pas un partenaire technologique de niche : il cherche une marque crédible, un discours médical validé, une communication unifiée sur plusieurs langues et une capacité à honorer des volumes sans précédent. Autant d'exigences qui impliquent une transformation quasi complète de l'identité commerciale d'une jeune medtech.\n\n« Nous avons vu plusieurs dossiers capoter non pas sur la technologie, mais sur l'incapacité de l'équipe fondatrice à produire un business plan consolidé en temps contraint », confie un investisseur parisien qui préfère rester anonyme. Les fonds qui accompagnent ces startups poussent souvent à saisir la fenêtre, quitte à forcer le rythme. Les opérationnels, eux, peinent à suivre.\n\nLa concurrence internationale ajoute une pression supplémentaire. Plusieurs acteurs allemands et nordiques, bénéficiant d'une culture de l'export plus ancrée et de certifications médicales parfois plus avancées, se positionnent activement sur les mêmes appels d'offres. Le temps de réponse devient un critère de sélection à part entière : certains distributeurs imposent des délais de validation inférieurs à trois semaines.\n\nPour les experts du secteur, la clé réside dans la capacité à aligner en urgence toutes les fonctions de l'entreprise — finance, marketing, opérations, juridique — autour d'une feuille de route unique, lisible et défendable devant un comité d'investissement ou un partenaire stratégique. Une exigence qui relève autant du management que de la stratégie pure."
+    },
+    "fausseUne": {
+      "source": "Les Échos",
+      "host": "lesechos.fr",
+      "rubrique": "Économie & Entreprises",
+      "kicker": "Medtech · Santé connectée",
+      "date": "14 mars 2025",
+      "headline": "Le réseau Northgate choisit son partenaire européen d'ici fin mars : la bataille des wearables santé est lancée",
+      "chapeau": "Le fonds britannique Northgate Capital, adossé à un consortium de 47 cliniques et 6 assureurs couvrant 11 pays, s'apprête à signer un accord de distribution exclusif dans le segment des dispositifs connectés de gestion du stress en entreprise. Plusieurs startups européennes sont en loge. La décision finale est attendue avant le 31 mars.",
+      "body": "C'est l'un des contrats les plus convoités du secteur medtech cette année. Northgate Capital, dont le bras opérationnel gère plus de 2,3 millions d'assurés en Europe centrale et du Nord, a engagé depuis janvier des discussions avancées avec au moins deux acteurs : une scale-up munichoise, Vitaloop GmbH, déjà référencée dans trois réseaux hospitaliers allemands, et une startup française dont le nom n'a pas été confirmé. Selon nos informations, l'accord porterait sur une intégration directe des wearables dans les contrats de prévention santé au travail proposés aux entreprises clientes du réseau, avec des volumes initiaux estimés entre 80 000 et 120 000 unités sur dix-huit mois. 'Nous ne signerons qu'une seule fois, et avec celui qui sera prêt à scaler sans délai', a déclaré une source proche du dossier. Le cahier des charges imposé serait exigeant : repositionnement de la marque, documentation clinique homologuée CE, capacité de production certifiée et plan de communication multilingue opérationnel dès le lancement. Vitaloop afficherait une longueur d'avance sur la maturité industrielle. Du côté français, le calendrier serait particulièrement serré."
+    },
+    "slackSeed": {
+      "messages": [
+        {
+          "time": "08:17",
+          "text": "Bienvenue dans l'équipe — on se retrouve en plein dans l'œil du cyclone"
+        },
+        {
+          "time": "08:19",
+          "text": "Northgate nous a mis 3 semaines sur la table pour leur présenter un business plan solide + une feuille de route opérationnelle complète, sinon ils partent sur le concurrent allemand — t'as le contexte complet dans le drive /Opération Northgate"
+        },
+        {
+          "time": "08:23",
+          "text": "Ce que j'attends de toi : un diagnostic stratégique propre (SWOT, environnement, positionnement), un business plan structuré prêt à défendre devant Jakob, et une feuille de route que Sonia et Camille peuvent activer immédiatement — première version d'ici vendredi 21 mars, 18h"
+        }
+      ]
+    },
+    "completedAt": "2026-06-15T16:31:33.668Z"
+  }
+}
