@@ -312,6 +312,10 @@ window.LUMIO_DATA = {
       {
         "titre": "C6 — Formaliser la politique générale pour permettre d'allouer les ressources matérielles, humaines et financières en fixant les étapes et les processus de mise en œuvre",
         "body": "La feuille de route doit être opérationnelle : évitez les généralités. Nommez explicitement les rôles et responsabilités de chaque personne clé de Lumio (Théo, Sonia, Camille, Yassine). L'absence de répartition claire des rôles est un critère éliminatoire au jury."
+      },
+      {
+        "titre": "C7 — Diffuser la stratégie et la feuille de route aux unités opérationnelles et aux fonctions clés de l'organisation en utilisant les outils d'organisation et de planification, pour mobiliser les ressources nécessaires à l'atteinte des objectifs",
+        "body": "Le dispositif de diffusion doit être concret : note de service en style professionnel direct (objet, contexte, décisions, actions, délais), outils collaboratifs nommés (CRM, espace projet, tableau de bord) et planning prévisionnel sur 18 mois avec jalons datés. Une diffusion limitée à des intentions générales sera jugée insuffisante."
       }
     ],
     "footer": "Ce guide est disponible à tout moment via le bouton ? en bas à gauche du desktop."
@@ -639,6 +643,26 @@ window.LUMIO_DATA = {
 
 window.PAC_CONFIG = {
   "bloc": "bc1",
+  accroche_namescreen: {
+    "subtitle": "Élaborer la stratégie globale",
+    "role": "consultant·e en stratégie d'organisation",
+    "intro": "Tu es {{STUDENT}}, consultant·e mandaté·e par Théo Marczak (CEO de Lumio Health) pour l'Opération Northgate : pivoter ou périr. Diagnostic stratégique, business plan, vision et politique générale, diffusion interne : tu produis le rapport d'activité / business plan qui engage l'avenir de l'organisation.",
+    "ratio_label": "3 semaines dans la vraie vie",
+    "regles": [
+      {
+        "ico": "📄",
+        "txt": "Tout ce que tu sais, c'est dans les documents stratégiques du poste de mission."
+      },
+      {
+        "ico": "🤐",
+        "txt": "Le jury exige des tableaux financiers prévisionnels et des indicateurs chiffrés — pas des intentions générales."
+      },
+      {
+        "ico": "💬",
+        "txt": "Quand tu as une orientation solide → Slack → ton commanditaire. Sa réaction débloque la suite."
+      }
+    ]
+  },
   "titre": "Élaborer et diffuser la stratégie globale d'une organisation",
   "epreuve": "Rapport d'activité / Business plan",
   "deadline": "14 mars 2025 · 18h00",
@@ -825,7 +849,7 @@ window.PAC_CONFIG = {
   ],
   "gabarits": {},
   "questionsPositionnement": [],
-  "juryPrompt": "Tu es le jury certifiant du bloc bc1 (Manager la stratégie globale d'une organisation).\nContexte : Opération Northgate : pivoter ou périr · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de tableaux financiers prévisionnels (bilan et compte de résultat) dans le business plan — le livrable est automatiquement hors critères CE3.2\n- Rôles et responsabilités non attribués explicitement à des personnes nommées (Théo Marczak, Sonia Ferracci, Camille Ott, Yassine Morel) dans la feuille de route — critère CE6 non satisfait\n- Absence d'indicateurs d'impact mesurables (KPIs chiffrés, cibles CA, métriques de communication) dans au moins trois des compétences évaluées\n- Benchmark (C1) non réalisé ou limité à des affirmations génériques sans données sectorielles ni noms d'acteurs concurrents identifiés\n- Note réflexive inférieure à 100 mots ou absente — épreuve incomplète, non recevable\n- Plan de communication (C5) ne mentionnant aucun canal numérique ni aucun indicateur de succès mesurable\n- Business plan (C3) ne couvrant pas l'activité internationale de Lumio ou ignorant le contexte Northgate multi-pays\n\nRéponds EXACTEMENT dans ce format :\n### C1 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C2 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C3 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C4 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C5 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C6 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C7 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
+  "juryPrompt": "Tu es le jury certifiant du bloc bc1 (Élaborer et diffuser la stratégie globale d'une organisation — MDO, RNCP 35280).\nContexte : Opération Northgate : pivoter ou périr · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de tableaux financiers prévisionnels (bilan et compte de résultat) dans le business plan — le livrable est automatiquement hors critères CE3.2\n- Rôles et responsabilités non attribués explicitement à des personnes nommées (Théo Marczak, Sonia Ferracci, Camille Ott, Yassine Morel) dans la feuille de route — critère CE6 non satisfait\n- Absence d'indicateurs d'impact mesurables (KPIs chiffrés, cibles CA, métriques de communication) dans au moins trois des compétences évaluées\n- Benchmark (C1) non réalisé ou limité à des affirmations génériques sans données sectorielles ni noms d'acteurs concurrents identifiés\n- Note réflexive inférieure à 100 mots ou absente — épreuve incomplète, non recevable\n- Plan de communication (C5) ne mentionnant aucun canal numérique ni aucun indicateur de succès mesurable\n- Business plan (C3) ne couvrant pas l'activité internationale de Lumio ou ignorant le contexte Northgate multi-pays\n\nRéponds EXACTEMENT dans ce format :\n### C1 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C2 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C3 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C4 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C5 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C6 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C7 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
   "livrableMinMots": 520,
   "noteReflexiveMinMots": 100
 };
