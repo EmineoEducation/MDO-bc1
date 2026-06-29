@@ -312,10 +312,6 @@ window.LUMIO_DATA = {
       {
         "titre": "C6 — Formaliser la politique générale pour permettre d'allouer les ressources matérielles, humaines et financières en fixant les étapes et les processus de mise en œuvre",
         "body": "La feuille de route doit être opérationnelle : évitez les généralités. Nommez explicitement les rôles et responsabilités de chaque personne clé de Lumio (Théo, Sonia, Camille, Yassine). L'absence de répartition claire des rôles est un critère éliminatoire au jury."
-      },
-      {
-        "titre": "C7 — Diffuser la stratégie et la feuille de route aux unités opérationnelles et aux fonctions clés de l'organisation en utilisant les outils d'organisation et de planification, pour mobiliser les ressources nécessaires à l'atteinte des objectifs",
-        "body": "Le dispositif de diffusion doit être concret : note de service en style professionnel direct (objet, contexte, décisions, actions, délais), outils collaboratifs nommés (CRM, espace projet, tableau de bord) et planning prévisionnel sur 18 mois avec jalons datés. Une diffusion limitée à des intentions générales sera jugée insuffisante."
       }
     ],
     "footer": "Ce guide est disponible à tout moment via le bouton ? en bas à gauche du desktop."
@@ -348,13 +344,17 @@ window.LUMIO_DATA = {
             "kind": "mail",
             "name": "Offre de partenariat exclusif",
             "app": "mail",
-            "props": { "openId": "DOC-01" }
+            "props": {
+              "docId": "DOC-01"
+            }
           },
           {
             "kind": "pdf",
             "name": "Marché européen des wearables",
             "app": "pdf",
-            "props": { "openDoc": "DOC-02" }
+            "props": {
+              "docId": "DOC-02"
+            }
           }
         ]
       },
@@ -367,13 +367,17 @@ window.LUMIO_DATA = {
             "kind": "pdf",
             "name": "Données financières Lumio Health",
             "app": "pdf",
-            "props": { "openDoc": "DOC-03" }
+            "props": {
+              "docId": "DOC-03"
+            }
           },
           {
             "kind": "note",
             "name": "Benchmark concurrentiel — 4",
             "app": "notes",
-            "props": { "openNote": "DOC-04" }
+            "props": {
+              "docId": "DOC-04"
+            }
           }
         ]
       },
@@ -386,13 +390,17 @@ window.LUMIO_DATA = {
             "kind": "pdf",
             "name": "Repositionnement de marque Lumio",
             "app": "pdf",
-            "props": { "openDoc": "DOC-05" }
+            "props": {
+              "docId": "DOC-05"
+            }
           },
           {
             "kind": "pdf",
             "name": "War-room Northgate du 14/03",
             "app": "pdf",
-            "props": { "openDoc": "DOC-06" }
+            "props": {
+              "docId": "DOC-06"
+            }
           }
         ]
       },
@@ -405,7 +413,9 @@ window.LUMIO_DATA = {
             "kind": "note",
             "name": "[BROUILLON] Annonce pivot stratégique",
             "app": "notes",
-            "props": { "openNote": "DOC-07" }
+            "props": {
+              "docId": "DOC-07"
+            }
           }
         ]
       },
@@ -418,7 +428,9 @@ window.LUMIO_DATA = {
             "kind": "mail",
             "name": "⚠️ Jakob Rein vient",
             "app": "mail",
-            "props": { "openId": "DOC-08" }
+            "props": {
+              "docId": "DOC-08"
+            }
           }
         ]
       },
@@ -428,46 +440,46 @@ window.LUMIO_DATA = {
         "icon": "🪪",
         "items": [
           {
-                    "kind": "html",
-                    "name": "Théo Marczak — CEO",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "theo"
-                    }
+            "kind": "html",
+            "name": "Théo Marczak — CEO",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_theo_marczak.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Sonia Ferracci — Dir. Marketing",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "sonia"
-                    }
+            "kind": "html",
+            "name": "Sonia Ferracci — Dir. Marketing",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_sonia_ferracci.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Camille Ott — Partenariats B2B",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "camille"
-                    }
+            "kind": "html",
+            "name": "Camille Ott — Partenariats B2B",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_camille_ott.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Yassine Morel — Content Manager",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "yassine"
-                    }
+            "kind": "html",
+            "name": "Yassine Morel — Content Manager",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_yassine_morel.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Jakob Rein — Northgate Capital",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "jakob"
-                    }
+            "kind": "html",
+            "name": "Jakob Rein — Northgate Capital",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_jakob_rein.html"
+            }
           }
-          ]
+        ]
       }
     },
     "order": [
@@ -609,7 +621,7 @@ window.LUMIO_DATA = {
       "date": "11 mars 2025",
       "headline": "Wearables santé au travail : les medtechs françaises face au vertige de l'internationalisation express",
       "lede": "Portées par une demande croissante des employeurs et des réseaux de soins européens, plusieurs jeunes pousses hexagonales spécialisées dans la mesure du bien-être professionnel se trouvent confrontées à des offres de distribution massive qu'elles n'ont pas toujours les reins assez solides pour absorber. Entre opportunité de décennie et piège opérationnel, le dilemme est réel.",
-      "illustration": "portraits/Theo_Marczak.png",
+      "illustration": "PHOTO ILLUSTRATIVE",
       "body": "En 2024, le marché européen des dispositifs connectés dédiés à la santé mentale et au stress au travail a progressé de 34 % selon le cabinet Frost & Sullivan, porté par la montée en puissance des politiques QVT dans les grandes entreprises et par l'intégration croissante de ces outils dans les contrats de prévoyance collective. Les réseaux de cliniques privées et les assureurs santé sont désormais en première ligne pour référencer ces solutions à grande échelle.\n\nMais cette accélération crée une asymétrie brutale : d'un côté, des distributeurs capables de déployer un produit sur dix ou onze marchés en moins de deux ans ; de l'autre, des éditeurs et fabricants dont les équipes, souvent inférieures à cinquante personnes, n'ont jamais conçu leurs processus pour ce type de montée en charge. « L'offre de distribution massive, c'est la meilleure et la pire chose qui puisse arriver à une startup en phase de croissance organique », résume Élodie Castaing, associée chez Healthcare Ventures à Lyon.\n\nLe cas des wearables anti-stress est particulièrement révélateur. Ces objets connectés, qui mesurent variabilité cardiaque, conductance cutanée ou qualité du sommeil, ont d'abord séduit les directions des ressources humaines de grands groupes via des contrats directs. Leur modèle B2B, fondé sur la relation de confiance et l'accompagnement personnalisé, est aujourd'hui bousculé par des acteurs de la distribution qui exigent standardisation, scalabilité et refonte du positionnement tarifaire.\n\nLa question du positionnement est centrale. Un réseau paneuropéen de cliniques ou d'assureurs ne cherche pas un partenaire technologique de niche : il cherche une marque crédible, un discours médical validé, une communication unifiée sur plusieurs langues et une capacité à honorer des volumes sans précédent. Autant d'exigences qui impliquent une transformation quasi complète de l'identité commerciale d'une jeune medtech.\n\n« Nous avons vu plusieurs dossiers capoter non pas sur la technologie, mais sur l'incapacité de l'équipe fondatrice à produire un business plan consolidé en temps contraint », confie un investisseur parisien qui préfère rester anonyme. Les fonds qui accompagnent ces startups poussent souvent à saisir la fenêtre, quitte à forcer le rythme. Les opérationnels, eux, peinent à suivre.\n\nLa concurrence internationale ajoute une pression supplémentaire. Plusieurs acteurs allemands et nordiques, bénéficiant d'une culture de l'export plus ancrée et de certifications médicales parfois plus avancées, se positionnent activement sur les mêmes appels d'offres. Le temps de réponse devient un critère de sélection à part entière : certains distributeurs imposent des délais de validation inférieurs à trois semaines.\n\nPour les experts du secteur, la clé réside dans la capacité à aligner en urgence toutes les fonctions de l'entreprise — finance, marketing, opérations, juridique — autour d'une feuille de route unique, lisible et défendable devant un comité d'investissement ou un partenaire stratégique. Une exigence qui relève autant du management que de la stratégie pure."
     }
   ],
@@ -625,36 +637,8 @@ window.LUMIO_DATA = {
   }
 };
 
-
-// ── Correctifs RETEX juin 2026 ── injectés après LUMIO_DATA ──────────────
-if (!window.LUMIO_DATA.finder.folders.mission) { window.LUMIO_DATA.finder.folders.mission = {"title": "Mission — Dossier complet", "sidebar": "Mission", "icon": "🗂", "items": [{"kind": "folder", "name": "Acte 1 — Ancrage", "folder": "acte1"}, {"kind": "folder", "name": "Acte 2 — Entrée affaire", "folder": "acte2"}, {"kind": "folder", "name": "Acte 3 — Diagnostic", "folder": "acte3"}, {"kind": "folder", "name": "Acte 4 — Production", "folder": "acte4"}, {"kind": "folder", "name": "Acte 5 — Réflexion", "folder": "acte5"}, {"kind": "folder", "name": "Portraits équipe", "folder": "portraits"}]}; }
-if (!window.LUMIO_DATA.finder.order.includes('mission')) { var _o=window.LUMIO_DATA.finder.order; window.LUMIO_DATA.finder.order = ['guide','mission',..._o.filter(x=>x!=='guide')]; }
-if (!window.LUMIO_DATA.portraits || !window.LUMIO_DATA.portraits.length) { window.LUMIO_DATA.portraits = [{"key": "theo", "id": "portrait-theo", "title": "Théo Marczak — CEO", "tabTitle": "Théo Marczak", "favicon": "T", "faviconColor": "#0a3d62", "host": "lusinedigitale.fr", "url": "lusinedigitale.fr/portrait/theo-marczak", "file": "portraits/portrait_theo_marczak.html"}, {"key": "sonia", "id": "portrait-sonia", "title": "Sonia Ferracci — Dir. Marketing", "tabTitle": "Sonia Ferracci", "favicon": "S", "faviconColor": "#a02020", "host": "cbnews.fr", "url": "cbnews.fr/portrait/sonia-ferracci", "file": "portraits/portrait_sonia_ferracci.html"}, {"key": "camille", "id": "portrait-camille", "title": "Camille Ott — Partenariats B2B", "tabTitle": "Camille Ott", "favicon": "C", "faviconColor": "#1a6641", "host": "actionco.fr", "url": "actionco.fr/portrait/camille-ott", "file": "portraits/portrait_camille_ott.html"}, {"key": "yassine", "id": "portrait-yassine", "title": "Yassine Morel — Content Manager", "tabTitle": "Yassine Morel", "favicon": "Y", "faviconColor": "#e85d3a", "host": "maddyness.com", "url": "maddyness.com/portrait/yassine-morel", "file": "portraits/portrait_yassine_morel.html"}, {"key": "jakob", "id": "portrait-jakob", "title": "Jakob Rein — Northgate Capital", "tabTitle": "Jakob Rein", "favicon": "J", "faviconColor": "#1b3a6b", "host": "forbes.fr", "url": "forbes.fr/portrait/jakob-rein", "file": "portraits/portrait_jakob_rein.html"}]; }
-if (!window.LUMIO_DATA.desktopIcons) { window.LUMIO_DATA.desktopIcons = [{"app": "finder", "folder": "mission", "label": "Mission", "kind": "folder"}, {"app": "finder", "folder": "portraits", "label": "Portraits équipe", "kind": "folder"}, {"app": "mail", "label": "Mail", "kind": "app"}, {"app": "slack", "label": "Slack", "kind": "app"}, {"app": "notepad", "label": "Mes notes.txt", "kind": "app"}]; }
-if (!window.LUMIO_DATA.voiceMemos || !window.LUMIO_DATA.voiceMemos.length) { window.LUMIO_DATA.voiceMemos = [{"title": "Débrief RDV — partenaire stratégique", "author": "Camille Ott", "role": "Responsable partenariats B2B", "date": "Mars 2025", "context": "mémo dicté après réunion", "durationSec": 44, "transcript": "Réunion ce matin avec le partenaire clé. Le message principal : ils veulent avancer, mais pas sans voir la certification MDR progresser. Côté budget, la fourchette est réaliste — ils sont prêts à discuter. Ce qui bloque, c'est la souveraineté des données : hébergement France, audit annuel, accès self-service. Je leur ai dit qu'on pouvait s'engager sur ce point d'ici fin mars. À valider avec Théo avant que je confirme."}, {"title": "Note terrain — signaux B2B semaine", "author": "Camille Ott", "role": "Responsable partenariats B2B", "date": "Avril 2025", "context": "mémo dicté en déplacement", "durationSec": 36, "transcript": "Trois signaux forts cette semaine. Un : les DSI bloquent systématiquement sur RGPD dès qu'on parle de wearable — sans hébergement local certifié, on ne passe pas. Deux : le sujet est remonté au niveau comité de direction dans deux entreprises sur trois — la décision n'est plus RH, elle est stratégique. Trois : les mutuelles commencent à nous solliciter directement pour des offres packagées. C'est un canal qu'on n'avait pas prévu et qui mérite qu'on y consacre du temps."}]; }
-
 window.PAC_CONFIG = {
   "bloc": "bc1",
-  accroche_namescreen: {
-    "subtitle": "Élaborer la stratégie globale",
-    "role": "consultant·e en stratégie d'organisation",
-    "intro": "Tu es {{STUDENT}}, consultant·e mandaté·e par Théo Marczak (CEO de Lumio Health) pour l'Opération Northgate : pivoter ou périr. Diagnostic stratégique, business plan, vision et politique générale, diffusion interne : tu produis le rapport d'activité / business plan qui engage l'avenir de l'organisation.",
-    "ratio_label": "3 semaines dans la vraie vie",
-    "regles": [
-      {
-        "ico": "📄",
-        "txt": "Tout ce que tu sais, c'est dans les documents stratégiques du poste de mission."
-      },
-      {
-        "ico": "🤐",
-        "txt": "Le jury exige des tableaux financiers prévisionnels et des indicateurs chiffrés — pas des intentions générales."
-      },
-      {
-        "ico": "💬",
-        "txt": "Quand tu as une orientation solide → Slack → ton commanditaire. Sa réaction débloque la suite."
-      }
-    ]
-  },
   "titre": "Élaborer et diffuser la stratégie globale d'une organisation",
   "epreuve": "Rapport d'activité / Business plan",
   "deadline": "14 mars 2025 · 18h00",
@@ -841,9 +825,14 @@ window.PAC_CONFIG = {
   ],
   "gabarits": {},
   "questionsPositionnement": [],
-  "juryPrompt": "Tu es le jury certifiant du bloc bc1 (Élaborer et diffuser la stratégie globale d'une organisation — MDO, RNCP 35280).\nContexte : Opération Northgate : pivoter ou périr · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de tableaux financiers prévisionnels (bilan et compte de résultat) dans le business plan — le livrable est automatiquement hors critères CE3.2\n- Rôles et responsabilités non attribués explicitement à des personnes nommées (Théo Marczak, Sonia Ferracci, Camille Ott, Yassine Morel) dans la feuille de route — critère CE6 non satisfait\n- Absence d'indicateurs d'impact mesurables (KPIs chiffrés, cibles CA, métriques de communication) dans au moins trois des compétences évaluées\n- Benchmark (C1) non réalisé ou limité à des affirmations génériques sans données sectorielles ni noms d'acteurs concurrents identifiés\n- Note réflexive inférieure à 100 mots ou absente — épreuve incomplète, non recevable\n- Plan de communication (C5) ne mentionnant aucun canal numérique ni aucun indicateur de succès mesurable\n- Business plan (C3) ne couvrant pas l'activité internationale de Lumio ou ignorant le contexte Northgate multi-pays\n\nRéponds EXACTEMENT dans ce format :\n### C1 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C2 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C3 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C4 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C5 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C6 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C7 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
+  "juryPrompt": "Tu es le jury certifiant du bloc bc1 (Manager la stratégie globale d'une organisation).\nContexte : Opération Northgate : pivoter ou périr · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de tableaux financiers prévisionnels (bilan et compte de résultat) dans le business plan — le livrable est automatiquement hors critères CE3.2\n- Rôles et responsabilités non attribués explicitement à des personnes nommées (Théo Marczak, Sonia Ferracci, Camille Ott, Yassine Morel) dans la feuille de route — critère CE6 non satisfait\n- Absence d'indicateurs d'impact mesurables (KPIs chiffrés, cibles CA, métriques de communication) dans au moins trois des compétences évaluées\n- Benchmark (C1) non réalisé ou limité à des affirmations génériques sans données sectorielles ni noms d'acteurs concurrents identifiés\n- Note réflexive inférieure à 100 mots ou absente — épreuve incomplète, non recevable\n- Plan de communication (C5) ne mentionnant aucun canal numérique ni aucun indicateur de succès mesurable\n- Business plan (C3) ne couvrant pas l'activité internationale de Lumio ou ignorant le contexte Northgate multi-pays\n\nRéponds EXACTEMENT dans ce format :\n### C1 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C2 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C3 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C4 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C5 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C6 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C7 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
   "livrableMinMots": 520,
   "noteReflexiveMinMots": 100
 };
 // Alias de compatibilité
 window.PASS_CONFIG = window.PAC_CONFIG;
+
+// [PATCH] Correction bug — voiceMemos fallback pour app-voice.jsx
+if (window.LUMIO_DATA && !window.LUMIO_DATA.voiceMemos && !window.LUMIO_DATA.camilleVerbatims) {
+  window.LUMIO_DATA.voiceMemos = [];
+}
