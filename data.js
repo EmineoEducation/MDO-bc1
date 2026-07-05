@@ -638,7 +638,36 @@ window.LUMIO_DATA = {
     "headline": "Le réseau Northgate choisit son partenaire européen d'ici fin mars : la bataille des wearables santé est lancée",
     "chapeau": "Le fonds britannique Northgate Capital, adossé à un consortium de 47 cliniques et 6 assureurs couvrant 11 pays, s'apprête à signer un accord de distribution exclusif dans le segment des dispositifs connectés de gestion du stress en entreprise. Plusieurs startups européennes sont en loge. La décision finale est attendue avant le 31 mars.",
     "body": "C'est l'un des contrats les plus convoités du secteur medtech cette année. Northgate Capital, dont le bras opérationnel gère plus de 2,3 millions d'assurés en Europe centrale et du Nord, a engagé depuis janvier des discussions avancées avec au moins deux acteurs : une scale-up munichoise, Vitaloop GmbH, déjà référencée dans trois réseaux hospitaliers allemands, et une startup française dont le nom n'a pas été confirmé. Selon nos informations, l'accord porterait sur une intégration directe des wearables dans les contrats de prévention santé au travail proposés aux entreprises clientes du réseau, avec des volumes initiaux estimés entre 80 000 et 120 000 unités sur dix-huit mois. 'Nous ne signerons qu'une seule fois, et avec celui qui sera prêt à scaler sans délai', a déclaré une source proche du dossier. Le cahier des charges imposé serait exigeant : repositionnement de la marque, documentation clinique homologuée CE, capacité de production certifiée et plan de communication multilingue opérationnel dès le lancement. Vitaloop afficherait une longueur d'avance sur la maturité industrielle. Du côté français, le calendrier serait particulièrement serré."
-  }
+  },
+  "voiceMemos": [
+    {
+        "title": "Sur ce que l'exclusivité coûterait à nos 180 clients",
+        "author": "Camille Ott",
+        "role": "Responsable partenariats B2B",
+        "date": "",
+        "context": "Verbatim terrain",
+        "durationSec": 96,
+        "transcript": "Tout le monde regarde les 4 200 unités de Northgate, personne ne regarde nos clients actuels. Moi je les ai au téléphone toutes les semaines. Si on signe une exclusivité de distribution B2B sur onze pays, qu'est-ce que je dis à un DRH allemand ou néerlandais qui travaille avec nous en direct depuis quatre ans ? Qu'il doit maintenant passer par un réseau de cliniques qu'il n'a pas choisi ? J'ai relu la clause trois fois : l'exclusivité est non négociable. Ça veut dire qu'on troque une relation directe qu'on maîtrise contre un volume qu'on ne maîtrise pas. Peut-être que c'est le bon calcul. Mais il faut que quelqu'un le fasse, ce calcul, ligne par ligne, avant le 3 avril."
+    },
+    {
+        "title": "Sur Vitaloop et la fenêtre de 21 jours",
+        "author": "Camille Ott",
+        "role": "Responsable partenariats B2B",
+        "date": "",
+        "context": "Verbatim terrain",
+        "durationSec": 64,
+        "transcript": "Le second mail de Jakob Rein n'est pas une politesse, c'est un compte à rebours. Vitaloop a déposé son dossier. Eux, ils ont déjà trois réseaux hospitaliers allemands en référencement, une documentation clinique carrée, une capacité industrielle prouvée. Nous, on a huit ans de terrain et une qualité de data que personne n'égale — mais ça ne se voit pas dans un dossier de comité de sélection. Si notre réponse au 3 avril ressemble à une lettre d'intention sans business plan chiffré, on est éliminés sur le papier avant même d'avoir parlé produit."
+    },
+    {
+        "title": "La question que je poserais à Théo",
+        "author": "Camille Ott",
+        "role": "Responsable partenariats B2B",
+        "date": "",
+        "context": "Verbatim terrain",
+        "durationSec": 78,
+        "transcript": "Ce que je n'arrive pas à faire dire clairement à Théo, c'est : est-ce qu'on est capables de livrer certifié au T3 2025, oui ou non ? Parce que tout le reste — le repositionnement, le plan de com multilingue, la refonte médico-réglementaire pays par pays — tout ça se planifie. Mais la capacité de livraison certifiée, ça ne se décrète pas dans un slide. Si la réponse honnête est « pas avant le T4 », alors il faut le négocier maintenant, pas le découvrir en septembre devant 47 cliniques qui attendent leurs unités. Un partenariat qui démarre par un retard de livraison, dans le médical, ça ne se rattrape jamais vraiment."
+    }
+  ]
 };
 
 window.PAC_CONFIG = {
